@@ -5,9 +5,9 @@
 
 <span> 
 
- <img align = "left"  src = "https://github-readme-stats.vercel.app/api?username=samantha2302&show_icons=true&theme=radical&line_height=33.5">
+ <img align = "left"  src = "https://github-readme-stats.vercel.app/api?username=KatherineDAG&show_icons=true&theme=radical&line_height=33.5">
    
- <img align = "right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=samantha2302&hide=css,html&theme=tokyonight">
+ <img align = "right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KatherineDAG&hide=css,html&theme=tokyonight">
 
 </span>
 
